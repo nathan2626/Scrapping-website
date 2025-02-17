@@ -14,6 +14,7 @@ list-models-gpt.txt
 *.log
 *.tmp
 *.bak
+/6_extraction_pages_gpt
 
 # Dossiers Python
 __pycache__/
